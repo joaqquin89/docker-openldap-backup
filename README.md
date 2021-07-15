@@ -1,5 +1,6 @@
 # osixia/openldap-backup
 
+# in this bkp image i added upload the bkps to oci object storage
 [![Docker Pulls](https://img.shields.io/docker/pulls/osixia/openldap-backup.svg)][hub]
 [![Docker Stars](https://img.shields.io/docker/stars/osixia/openldap-backup.svg)][hub]
 [![](https://images.microbadger.com/badges/image/osixia/openldap-backup.svg)](http://microbadger.com/images/osixia/openldap-backup "Get your own image badge on microbadger.com")
